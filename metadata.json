@@ -1,0 +1,8 @@
+{
+  "name": "Rian si Ambis",
+  "description": "Aplikasi jurnal produktivitas digital untuk mencatat jobdesk harian, melacak progress, dan meningkatkan motivasi dengan bantuan AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
